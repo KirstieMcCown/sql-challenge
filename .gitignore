@@ -68,6 +68,9 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+# Ignore config file for password
+config.py
+
 # Sphinx documentation
 docs/_build/
 
@@ -128,5 +131,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Ignore config file for password
-config.py
+
